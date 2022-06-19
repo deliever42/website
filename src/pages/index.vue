@@ -20,7 +20,7 @@
                 and I live in
                 <span
                     class="text-red-700 hover:text-red-600 hover:transition-colors hover:duration-200"
-                    >Turkey</span
+                    >Türkiye</span
                 >.
             </p>
             <p>
@@ -74,8 +74,18 @@
                     href="https://discord.com/users/931957993925378050"
                     brands="true"
                 />
-                <Icon icon="envelope" href="mailto:deliever42@gmail.com" solid="true" />
-                <Icon icon="instagram" href="https://www.instagram.com/deliever42/" brands="true" />
+                <Icon
+                    icon="envelope"
+                    color="text-white"
+                    href="mailto:deliever42@gmail.com"
+                    solid="true"
+                />
+                <Icon
+                    icon="instagram"
+                    color="text-white"
+                    href="https://www.instagram.com/deliever42/"
+                    brands="true"
+                />
             </div>
         </div>
     </div>

@@ -20,8 +20,7 @@ export default {
         icon: String,
         href: String,
         brands: String,
-        solid: String,
-        style: String
+        solid: String
     },
     setup() {
         return {
@@ -32,6 +31,7 @@ export default {
     },
     created() {
         this.classes['fa-' + this.icon] = true;
+        this.classes[this.color] = true;
 
         if (this.brands === 'true') {
             this.classes['fa-brands'] = true;
@@ -39,10 +39,6 @@ export default {
 
         if (this.solid === 'true') {
             this.classes['fa-solid'] = true;
-        }
-
-        if (this.color) {
-            this.classes[this.color] = true;
         }
     }
 };

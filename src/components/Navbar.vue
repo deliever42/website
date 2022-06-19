@@ -4,7 +4,7 @@
 
         <button
             @click="isNavbarOpen = !isNavbarOpen"
-            class="sm:hidden ml-auto mr-1 rounded-md p-2 inline-flex items-center text-white hover:bg-gray-900 hover:duration-100"
+            class="sm:hidden ml-auto mr-1 rounded-md p-2 inline-flex items-center text-white hover:bg-red-700 hover:duration-100"
         >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -57,21 +57,21 @@
 
         <ul class="w-full absolute top-20 bg-[#0e1320] sm:hidden block z-10" v-if="isNavbarOpen">
             <a
-                class="text-lg p-2 hover:bg-gray-900 hover:duration-200 block text-center mb-2 ml-2 mr-2 rounded-md"
+                class="text-lg p-2 hover:bg-red-700 hover:duration-200 block text-center mb-2 ml-2 mr-2 rounded-md"
                 href="https://github.com/deliever42"
                 target="_blank"
             >
                 GitHub
             </a>
             <a
-                class="text-lg p-2 hover:bg-gray-900 hover:duration-200 block text-center mb-2 ml-2 mr-2 rounded-md"
+                class="text-lg p-2 hover:bg-red-700 hover:duration-200 block text-center mb-2 ml-2 mr-2 rounded-md"
                 href="https://www.npmjs.com/~deliever"
                 target="_blank"
             >
                 NPM
             </a>
             <a
-                class="text-lg p-2 hover:bg-gray-900 hover:duration-200 block text-center mb-2 ml-2 mr-2 rounded-md"
+                class="text-lg p-2 hover:bg-red-700 hover:duration-200 block text-center mb-2 ml-2 mr-2 rounded-md"
                 href="https://stackoverflow.com/users/19366734/deliever42"
                 target="_blank"
             >

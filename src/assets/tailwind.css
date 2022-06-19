@@ -664,6 +664,14 @@ video {
   margin-top: 1rem;
 }
 
+.ml-5 {
+  margin-left: 1.25rem;
+}
+
+.ml-6 {
+  margin-left: 1.5rem;
+}
+
 .block {
   display: block;
 }
@@ -719,8 +727,16 @@ video {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.flex-row {
+  flex-direction: row;
+}
+
 .flex-col {
   flex-direction: column;
+}
+
+.flex-nowrap {
+  flex-wrap: nowrap;
 }
 
 .items-center {
@@ -729,6 +745,10 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
 }
 
 .justify-around {
@@ -928,14 +948,46 @@ video {
   }
 }
 
-.hover\:bg-gray-900:hover {
+.hover\:h-16:hover {
+  height: 4rem;
+}
+
+.hover\:h-14:hover {
+  height: 3.5rem;
+}
+
+.hover\:h-\[3\.1rem\]:hover {
+  height: 3.1rem;
+}
+
+.hover\:w-16:hover {
+  width: 4rem;
+}
+
+.hover\:w-14:hover {
+  width: 3.5rem;
+}
+
+.hover\:w-12:hover {
+  width: 3rem;
+}
+
+.hover\:w-\[3\.1rem\]:hover {
+  width: 3.1rem;
+}
+
+.hover\:bg-red-700:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-red-600:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(220 38 38 / var(--tw-bg-opacity));
+}
+
+.hover\:p-4:hover {
+  padding: 1rem;
 }
 
 .hover\:text-red-600:hover {
@@ -972,6 +1024,10 @@ video {
 
   .sm\:block {
     display: block;
+  }
+
+  .sm\:flex {
+    display: flex;
   }
 
   .sm\:hidden {
