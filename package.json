@@ -1,0 +1,35 @@
+{
+    "name": "deliever-website",
+    "version": "1.0.0",
+    "description": "Pernosal website",
+    "scripts": {
+        "dev": "vite --port 80",
+        "build": "vite build",
+        "build-watch": "vite build --watch",
+        "start": "vite preview --port 80",
+        "tailwind-build": "tailwindcss -i tailwind.css -o ./src/assets/tailwind.css",
+        "tailwind-watch": "tailwindcss -i tailwind.css -o ./src/assets/tailwind.css --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/deliever42/deliever42.github.io.git"
+    },
+    "author": "deliever42",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/deliever42/website/issues"
+    },
+    "homepage": "https://github.com/deliever42/website#readme",
+    "dependencies": {
+        "tailwindcss": "^3.1.3",
+        "vite-plugin-pages": "^0.24.0",
+        "vue": "^3.2.33",
+        "vue-router": "^4.0.14"
+    },
+    "devDependencies": {
+        "@types/node": "^16.11.27",
+        "@vitejs/plugin-vue": "^2.3.1",
+        "prettier": "^2.5.1",
+        "vite": "^2.9.5"
+    }
+}
