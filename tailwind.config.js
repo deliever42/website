@@ -5,10 +5,11 @@ module.exports = {
         extend: {
             screens: {
                 xs: '440px'
-            },
-            colors: {
-                blurple: '#5865F2'
             }
+        },
+        container: {
+            center: true,
+            padding: '0'
         }
     }
 };

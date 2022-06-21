@@ -1,0 +1,9 @@
+- Javascript
+- HTML
+- CSS
+- C++
+- C#
+- Node.JS
+- MongoDB
+- Github
+- Tailwind CSS

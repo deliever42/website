@@ -1,0 +1,102 @@
+{
+    "footer": {
+        "author": "Deliever42",
+        "to": "https://github.com/deliever42"
+    },
+    "navbar": {
+        "header": "Deliever42",
+        "items": [
+            {
+                "name": "Github",
+                "to": "https://github.com/deliever42"
+            },
+            {
+                "name": "NPM",
+                "to": "https://www.npmjs.com/~deliever"
+            },
+            {
+                "name": "Stackoverflow",
+                "to": "https://stackoverflow.com/users/19366734/deliever42"
+            }
+        ]
+    },
+    "contacts": [
+        {
+            "name": "Discord",
+            "icon": "https://cdn.worldvectorlogo.com/logos/discord-6.svg",
+            "to": "https://discord.com/users/931957993925378050"
+        },
+        {
+            "name": "Mail",
+            "icon": "https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg",
+            "to": "mailto:deliever42@gmail.com"
+        },
+        {
+            "name": "Instagram",
+            "icon": "https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg",
+            "to": "https://www.instagram.com/deliever42/"
+        }
+    ],
+    "technologies": [
+        {
+            "name": "JavaScript",
+            "icon": "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
+            "to": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        },
+        {
+            "name": "HTML",
+            "icon": "https://cdn.worldvectorlogo.com/logos/html-1.svg",
+            "to": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        },
+        {
+            "name": "CSS",
+            "icon": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+            "to": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        },
+        {
+            "name": "TypeScript",
+            "icon": "https://cdn.worldvectorlogo.com/logos/typescript-2.svg",
+            "to": "https://www.typescriptlang.org/"
+        },
+        {
+            "name": "Python",
+            "icon": "https://cdn.worldvectorlogo.com/logos/python-5.svg",
+            "to": "https://www.python.org/"
+        },
+        {
+            "name": "Node.JS",
+            "icon": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg",
+            "to": "https://nodejs.org/"
+        },
+        {
+            "name": "Vue",
+            "icon": "https://cdn.worldvectorlogo.com/logos/vue-9.svg",
+            "to": "https://vuejs.org/"
+        },
+        {
+            "name": "Github",
+            "icon": "https://cdn.worldvectorlogo.com/logos/github-icon-1.svg",
+            "to": "https://github.com/"
+        },
+        {
+            "name": "Git",
+            "icon": "https://cdn.worldvectorlogo.com/logos/git-icon.svg",
+            "to": "https://git-scm.com/"
+        },
+        {
+            "name": "Tailwind CSS",
+            "icon": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg",
+            "to": "https://tailwindcss.com/"
+        },
+        {
+            "name": "MongoDB",
+            "icon": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+            "to": "https://www.mongodb.com/"
+        },
+        {
+            "name": "VS Code",
+            "icon": "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+            "to": "https://code.visualstudio.com/"
+        }
+    ]
+}
