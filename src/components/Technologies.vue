@@ -9,7 +9,7 @@
             v-for="technologie of config.technologies"
         >
             <a
-                class="bg-[#0e1320] rounded-md shadow-lg hover:shadow-[#0e1320] p-3 w-48 h-12 my-auto flex flex-col justify-center hover:text-purple-700 hover:transition-all hover:duration-200"
+                class="bg-[#0e1320] rounded-md shadow-lg hover:shadow-[#0e1320] p-3 w-48 h-12 my-auto flex flex-col justify-center hover:text-indigo-700 hover:transition-all hover:duration-200"
                 :href="technologie.to"
                 target="_blank"
                 draggable="false"

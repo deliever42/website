@@ -10,14 +10,14 @@
     <br />
     <p class="text-white">
         Hello, my name is
-        <span class="text-purple-700 hover:text-purple-600 hover:transition-colors hover:duration-200"
+        <span class="text-indigo-700 hover:text-indigo-600 hover:transition-colors hover:duration-200"
             >Emirhan</span
         >
         and I live in
-        <span class="text-purple-700 hover:text-purple-600 hover:transition-colors hover:duration-200"
+        <span class="text-indigo-700 hover:text-indigo-600 hover:transition-colors hover:duration-200"
             >Türkiye</span
         >. I'am a
-        <span class="text-purple-700 hover:text-purple-600 hover:transition-colors hover:duration-200"
+        <span class="text-indigo-700 hover:text-indigo-600 hover:transition-colors hover:duration-200"
             >Full Stack</span
         >
         Developer.

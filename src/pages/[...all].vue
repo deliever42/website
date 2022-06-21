@@ -8,7 +8,7 @@
             to="/"
             type="BUTTON"
             role="BUTTON"
-            class="py-2 px-6 bg-purple-700 hover:bg-purple-600 hover:shadow-md hover:shadow-purple-600 rounded-3xl text-xl hover:transition-all hover:duration-200"
+            class="py-2 px-6 bg-indigo-700 hover:bg-indigo-600 hover:shadow-md hover:shadow-indigo-600 rounded-3xl text-xl hover:transition-all hover:duration-200"
             >Home</RouterLink
         >
     </div>

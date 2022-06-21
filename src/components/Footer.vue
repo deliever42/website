@@ -10,7 +10,7 @@
         <p class="text-gray-500">
             Copyright © {{ year }}
             <a
-                class="text-purple-700 hover:text-purple-600 hover:transition-colors hover:duration-200"
+                class="text-indigo-700 hover:text-indigo-600 hover:transition-colors hover:duration-200"
                 :href="config.footer.to"
                 target="_blank"
                 >{{ config.footer.author }}</a
