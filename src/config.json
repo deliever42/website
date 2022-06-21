@@ -74,6 +74,11 @@
             "to": "https://vuejs.org/"
         },
         {
+            "name": "Svelte",
+            "icon": "https://cdn.worldvectorlogo.com/logos/svelte-1.svg",
+            "to": "https://svelte.dev/"
+        },
+        {
             "name": "Github",
             "icon": "https://cdn.worldvectorlogo.com/logos/github-icon-1.svg",
             "to": "https://github.com/"
