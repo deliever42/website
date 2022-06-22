@@ -1,5 +1,7 @@
 <template>
-    <div class="container mt-32 mx-auto flex items-center justify-around flex-col text-lg">
+    <div
+        class="container mt-32 mx-auto flex items-center justify-around flex-col text-lg text-center"
+    >
         <h1 class="font-extrabold text-8xl">404</h1>
 
         <p class="text-3xl text-gray-400 font-bold">Ooops! This page doesn't exist.</p>

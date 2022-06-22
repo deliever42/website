@@ -1,7 +1,9 @@
 <template>
     <Navbar />
 
-    <div class="container mt-10 mx-auto flex items-center justify-around flex-col text-lg">
+    <div
+        class="container mt-10 mx-auto flex items-center justify-around flex-col text-lg text-center"
+    >
         <Me />
         <Technologies />
     </div>
